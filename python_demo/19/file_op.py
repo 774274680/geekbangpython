@@ -14,9 +14,11 @@
 # file3.close()
 #
 # file4 = open('name.txt')
+# 读取一行的内容
 # print (file4.readline())
 #
 # file5 = open('name.txt')
+# 读取多行的内容，并以数组的形式存放
 # for line in file5.readlines():
 #     print(line)
 #     print('=====')
